@@ -9,5 +9,7 @@ Even the most complex web applications start with simple HTML elements. Knowing 
 Objectives:
 
 -Student should be able to describe and use semantic HTML tags to markup content
+
 -Student should be able to demonstrate the use of CSS selectors to style markup
+
 -Student should be able to demonstrate CSS specificity and inheritance to create and update styles
