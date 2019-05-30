@@ -33,7 +33,7 @@ Semantic tags you could use:
   <p>We have all at one time or another mixed some mud. Now let's put some happy little clouds in here. You can do anything here - the only pre-requisite is that it makes you happy. See. We take the corner of the brush and let it play back-and-forth.</p>
 
   <p>Think about a cloud. Just float around and be there. There is no right or wrong - as long as it makes you happy and doesn't hurt anyone. Remember how free clouds are. They just lay around in the sky all day long. This is an example of what you can do with just a few things, a little imagination and a happy dream in your heart.</p>
-<section>
+</section>
 
 <section>
   <!-- main content -->
@@ -51,13 +51,15 @@ Semantic tags you could use:
 
   <p>Isn't it fantastic that you can change your mind and create all these happy things? There comes a nice little fluffer. Talk to trees, look at the birds. Whatever it takes. God gave you this gift of imagination. Use it. The more we do this - the more it will do good things to our heart.</p>
 </section>
-  
+
+<section>
 <!-- footer navigation -->
-<footer>
-  <nav>
-    <a href='#'>Home</a>
-    <a href='#'>About Us</a>
-    <a href='#'>Blog</a>
-    <a href='#'>Contact Us</a>
-  <nav>
-</footer>
+  <footer>
+    <nav>
+      <a href='#'>Home</a>
+      <a href='#'>About Us</a>
+      <a href='#'>Blog</a>
+      <a href='#'>Contact Us</a>
+    <nav>
+  </footer>
+</section>
